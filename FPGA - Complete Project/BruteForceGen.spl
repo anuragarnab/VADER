@@ -1,0 +1,9 @@
+[Inputs]
+clk
+enable
+=startPos[2:0]=
+=incrementAmount[2:0]=
+[Outputs]
+=message_width[7:0]=
+=password[127:0]=
+[BiDir]
